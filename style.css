@@ -17,49 +17,22 @@ body {
     background-image:  0.5;
 }
 
-h1 {
+.h1 {
     color: black;
     text-align: center;
     font-family: 'Hind Vadodara', sans-serif;
     display: inline-block;
-    margin-left:40%;
-    margin-right:40%;
-    justify-content: center
     
 }
  
 
-button {
-    background-color: #69c49f;
-    border: none;
-    color:white;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-family: 'Hind Vadodara', bold;
-    font-size: 12 px;
-    border-radius: 4px;
-    padding: 10px;
-    width: 100x;
-    transition: all 0.5s;
-    cursor: pointer;
-    justify-content: center;
-    align-content: center;
-    margin-left:45%;
-    margin-right:45%;
-    object-position: center;
+
+
+
+
+.img {
     
-  
-}
-
-
-img {
-    border:none;
-    margin-left: 0 px;
-    padding: inherit;
-    max-width: 100%;
-    height: auto;
-    margin-left: 10%;
+    margin-left: 20%;
     
     
 }
